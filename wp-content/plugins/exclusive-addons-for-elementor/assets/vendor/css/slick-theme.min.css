@@ -5,11 +5,11 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.eot');
-    src: url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.eot#iefix') format('embedded-opentype'), 
-    url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.woff') format('woff'), 
-    url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.ttf') format('truetype'), 
-    url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.svg#slick') format('svg');
+    src: url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.eot');
+    src: url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.eot#iefix') format('embedded-opentype'), 
+    url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.woff') format('woff'), 
+    url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.ttf') format('truetype'), 
+    url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,

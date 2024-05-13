@@ -4,11 +4,11 @@
 	font-weight: normal;
 	font-style: normal;
 	font-family: 'feathericons';
-	src:url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.eot?-8is7zf');
-	src:url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.eot#iefix-8is7zf') format('embedded-opentype'),
-		url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.woff?-8is7zf') format('woff'),
-		url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.ttf?-8is7zf') format('truetype'),
-		url('https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.svg?-8is7zf#feathericons') format('svg');
+	src:url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.eot?-8is7zf');
+	src:url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.eot#iefix-8is7zf') format('embedded-opentype'),
+		url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.woff?-8is7zf') format('woff'),
+		url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.ttf?-8is7zf') format('truetype'),
+		url('https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/feathericons/feathericons.svg?-8is7zf#feathericons') format('svg');
 }
 
 .exad-ihe-grid {
@@ -1424,7 +1424,7 @@ figure.exad-ihe-figure.effect-winston figcaption.exad-ihe-figcaption::before {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/img/triangle.svg) no-repeat center center;
+	background: url(https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/img/triangle.svg) no-repeat center center;
 	background-size: 100% 100%;
 	content: '';
 	-webkit-transition: opacity 0.45s, -webkit-transform 0.45s;
@@ -1709,7 +1709,7 @@ figure.exad-ihe-figure.effect-phoebe figcaption.exad-ihe-figcaption::before {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(https://bhagyashridomb.github.io/staticwebsite/index.html/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/img/triangle2.svg) no-repeat center center;
+	background: url(https://bhagyashridomb.github.io/staticwebsite/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/img/triangle2.svg) no-repeat center center;
 	background-size: 100% 100%;
 	content: '';
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
