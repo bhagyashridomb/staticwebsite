@@ -1,0 +1,1055 @@
+== Changelog ==
+= 2.0.5.8 (24-03-2024) =
+* Update: Security Bugs fixed
+
+= 2.0.5.7 (12-03-2024) =
+* Update: Security Bugs fixed
+* Updated: Elementor deprecated namespace, methods has been updated and compatible with latest version
+* Updated: MA Comments updated with broken style issues
+* Updated: Search Element updated styles
+* Updated: Advanced Image 'preload' not working issue fixed
+
+= 2.0.5.6 (25-01-2024) =
+* Update: Security Bugs fixed
+
+= 2.0.5.5 (31-12-2023) =
+* Update: Modula Gallery Plugin Conflict issue fixed
+
+= 2.0.5.4 (25-12-2023) =
+* Update: Security update
+* Update: White Label Logo not updating issue fixed
+
+= 2.0.5.3 (23-11-2023) =
+* Updated: Performance issue fixed
+* Updated: Admin Settings not working issue fixed
+* Updated: Popup notice not closing issue fixed
+
+= 2.0.5.2 (12-11-2023) =
+* Updated: File name typo issue fixed
+
+= 2.0.5.1 (12-11-2023) =
+* Updated: Admin Scripts updated
+
+= 2.0.5 (12-11-2023) =
+* Updated: Security Update issue fixed
+* Updated: Freemius SDK Updated
+* Updated: Notice not working issue fixed
+* Updated: Latest WordPress Compatibility
+* Updated: Latest Elementor Compatibility
+* Updated: Latest Elementor Pro Compatibility
+* Updated: Dashboard Welcome Widgets issue fixed
+
+= 2.0.4 (11-10-2023) =
+* Updated: Security Update issue fixed
+* Updated: Call to Action button "New Window" not working issue fixed
+* Removed: Tag 'p' removed from Advanced Accordion Title
+* Updated: Advanced Tabs updated with Tabular Content Alignment issue
+* Added: Bubble Line Position added on Progressbar
+* Updated: Stats Title Color and Typography not working issue fixed on Progressbars
+* Updated: Business Hours update with "Short Details" style preset background image not working issue
+* Updated: Business Hours Sub Title Show/Hide option not working issue fixed
+
+
+= 2.0.3 (06-07-2023) =
+* Updated: Updated Freemius SDK to the latest version
+* Updated: Latest Elementor & Elementor Pro checked
+
+= 2.0.2 (27-05-2023) =
+* Fixed: Countdown Timer "Minutes" typo issue fixed
+* Fixed: Master Addons icon on Editor alignment issue fixed
+* Fixed: Navigation Menu broken style issue fixed. Thanks [@guitar4jc](https://wordpress.org/support/topic/nav-menu-styling-broken/) for informing about the issue
+* Fixed: Sourcemap file "master-addons-styles.css.map" not found 404 error issue fixed. Thanks [@sneoo4](https://wordpress.org/support/topic/critical-error-on-all-admin-subsites-multisite/) for informing about the issue
+* Updated: All icons picker codebase updated for - Toogle Content, Advanced Tabs, Team Members, Dynamic Table,
+* Added: Icon width on Style tab for "MA Advanced Tabs"
+* Added: Icon Header width, Icon Body width, Icon Header Color, Icon Body with and SVC Icon color on Style tabs for "Dynamic Table"
+* Added: Icon Color, width, border radius, background color updated for Logo Slider
+* Updated: Icon Color, Icon Width updated for Infobox
+* Added: Icon Width added for "Image Hover Effects", updated CSS selectors for SVG icons for "Font Awesome 5"
+* Updated: Flipbox - Icon picker frontend code updated
+* Fixed: Flipbox - Back SVG Icon not resizing issue fixed
+* Added: Creative Links - Added Icon width option
+* Added: Creative Buttons - Added Icon width option and updated SVG icon color option
+* Added: Business Hours - Added Icon width option
+* Added: Business Hours - Added Icon Color option
+* Updated: Advanced Accordion - Icon library codes updated
+* Fixed: WP get_page_by_title() is deprecated
+
+= 2.0.1 (22-03-2023) =
+* Fixed: Call to undefined method Freemius_Api_WordPress::RemoteRequest() PHP fatal error issue fixed
+
+= 2.0.0 (13-03-2023) =
+* Fixed: Unsupported operand issue fixed on MA Blog widget
+* Fixed: Comment form field loading issue at backend
+* Fixed: Google re-captcha issue fixed
+* Fixed: Swiper Slider overflow issue fixed.
+
+= 1.9.9 (26-02-2023) =
+* Fixed: Compatibility check with latest WordPress and Elementor, Elementor Pro
+
+= 1.9.8 (04-01-2023) =
+* Fixed: Megamenu click/hover & width issue fixed
+
+= 1.9.6 (13-11-2022) =
+* Checked: Version Compatibility check with WordPress 6.1 and latest Elementor & Elementor Pro
+
+= 1.9.5 (26-10-2022) =
+* Fixed: "Datetime" issue fixed on multisite dashboard error issue fixed
+
+= 1.9.4 (18-09-2022) =
+* Fixed: "Timeline" addon -  Date displaying twice on responsive mode fixed
+
+= 1.9.3 (02-07-2022) =
+* Fixed: "Infobox" addon -  default hover style visiblity issue fixed, removed duplicate settings and code cleaned up
+* Fixed: "Timeline" addon -  date displaying twice in mobile/table issue fixed, Date Format added for custom/vertical timeline date picker & logic updated for displaying post featured image.
+* Fixed: "Navigation Menu" addon -  Style issue fixed when Layout/Type is VERTICSL/SIDE.
+* Fixed: "Current Time" addon -  Name of the Month made translate able.
+* Fixed: Dynamic Tags deprecated hook updated
+* Update: "Background Slider" addon -  Added a new settings "Display Random?" to display the slider iamges randomly on each page load..
+
+= 1.9.2 (15-06-2022) =
+* Fixed: "Advanced Image" addon - Image alighment & Preload image issue fixed.
+* Fixed: "Gallery Slider" addon - Thumbnail click issue fixed.
+* Fixed: "Navigation Menu" addon - dropdown indicator, submenu indicator, indicator hover animation & Gap between issue fixed.
+* Fixed: "Counter Up" addon -  suffix, prefix & image display issue fixed.
+* New: New "Creative Button" addon - added a new button style.
+* Updated: "Team Slider" addon - added Socials network Icons - Tiktok, Youtube & Email etc
+* Fixed: PHP Fatal erorr fixed.
+* Fixed: "Welcome Screen" php undefined issue fixed
+* Fixed: "Background Slider" extension - overlay issue fixed
+* Fixed: "Swiper Slider" addon - Arrow offset issue fixed
+* Fixed: Whole plugin text-domain updated for translation
+* Fixed: "Info box" addon - css issue fixed
+* Fixed: "MA Timeline" addon - php 8.0 issue fixed
+* Fixed: "Entrance Animation" extension - not working (frontend) issue fixed
+* Fixed: "Gallery Slider" addon - Thumbnail carousel display issue fixed
+* Fixed: "Filterable Image Gallery" addon - massonry issue fixed.
+* Fixed: "Creative Button" addon - Elevation button style issue
+* Fixed: PHP Warning undefined index issue fixed on white label
+* Fixed: Fixed typo on white label
+* Fixed: PHP undefined array key issue fixed
+* New: New Addon "Logo Slider" Released
+* New: Added white label settings to remove MA Placeholder image
+* Removed: Timeline - Post Timeline "Date Source" removed
+* Added: Timeline - Added Custom Label field to Custom Vertical Timeline.
+
+= 1.9.1 (01-05-2022) =
+* Fixed: "Info Box" All style presets image show/alignment issue fixed.
+* Fixed: "Blog Posts" addon's List Layout Type > List Blur Content issue fixed.
+* Fixed: "Team Slider" Content Drawer style not working issue fixed, Social Left on Hover icon design improved, Image border settings control added & Spacing control added for name,designation, dimension.
+* Fixed: "Nav Menu" sub menu broken issue fixed on mobile.
+* Fixed: "Logo Slider" Slides Per Column settings field added to contorl number of images to show in the slider.
+* Fixed: "Creative Button" -Effect: Ujarak hover color issue fixed.
+* Fixed: White Label bugs for Welcome Tab issue fixed
+* Updated: Flipbox updated with undefined variable issue
+* Updated: Team Slider updated with undefined variables
+
+= 1.9.0 (23-04-2022) =
+* Fixed: Elementor Popup width issue fixed
+* Updated: Timeline scrollbar not scrolling issue fixed
+* Fixed: Image Hover effect popup icon issue fixed
+* Updated: Latest Elementor support and deprecated methods updated
+
+
+= 1.8.9 (21-04-2022) =
+* Fixed: Admin UI page tab menu responsive issue fixed
+* Fixed: Mega Menu - Default value added for newly enabled megamenu to show up builder content.
+* Added: Mega Menu - Dropdown menu width settings added to the Mega Menu Settings Popup.
+* Fixed: Mega Menu -Megamenu hover issue fixed, both mobile and megamenu was hovering at the same time.
+* Fixed: Mega Menu -Megamenu php error fixed, wrapped up by a conditoin if megamenu extension is enabled.
+* Fixed: Dual Heading - Text Alignment issue fixed.
+* Fixed: Team Member - Box Shadow issue not working fixed.
+* Fixed: Team Memer - Designation padding/margin issue fixed.
+* Fixed: Team Slider - settings "Shadow mode" color not working issue fixed.
+* Fixed: Creative Button - "saqui" animation efect on hover issue fixed.
+* Fixed: Info Box - style seven hover color issue fixed.
+* Fixed: Creative Links - Effect: Text Fill, Scale Down, Fall Down, Move Up broken issue fixed.
+* Fixed: Infobox - variation no 10th hover color issue fixed.
+* Fixed: Advanced Accordion - Content Color and Background Color not working issue is fixed.
+* Fixed: Progressbars - active bar color issue fixed.
+* Fixed: Image hover - effect popup not working issue fixed.
+* Fixed: Timeline - Enabling Links breaks the timeline issue fixed.
+* Fixed: Tooltip Tab settings/styles added to swiper controls.
+* Updated: Wrapper Link extension updated
+* Updated: Timeline - Vertical Timeline Enable Links breaks issue fixed
+
+= 1.8.8 (09-04-2022) =
+* Fixed: "MA Templates" popup not working issue fixed
+* Updated: Admin Notices updated for Free and Pro users.
+* Fixed: Toggle Content broken HTML issue fixed
+* Fixed: Swiper Carousel Fixed "Carousel Settings > Paused on hover" not working issue fixed
+* New: New Addon "Image Carousel" Released
+* Updated: "Image Carousel" addon - dyamic image Size made, Added Caption (Title & Subtitle ) Support on Lightbox(Fancybox & Elementor) popup, Elementor popup width fixed.
+* Removed: "Image Carousel" addon - Image Fit settings removed
+* Fixed: "Image Carousel - Carousel Items > Active Tab" style not working issue fixed.  Other bugs - Dot position bug fixed,  Arrows, Dots & Fraction style & position bugs fixed,  Dynamic Next /Prev Icon, Scrollbar display issue fixed, Offset vertical/horizontal
+* Updated: Tooltips Extension library updated to latest version, compressed all supported files into one file
+* Updated: Tooltips Extension - Arrow type bug fixed, Distance issue fixed, Size settings removed, Manual Trigger programmatically added.
+* Fixed: Relax & Reveal display issue fixed.
+* Fixed: Mega Menu not working issue fixed
+* Fixed: Nav Menu Addon - Megamenu dropdown display issue fixed, dropdown hover animation, dropdown icon issue fixed, switching on hover dropdown display issue fixed
+* Fixed: Nav Menu Addon - PHP notice: array to string conversion issue fixed
+
+
+= 1.8.7 (09-03-2022) =
+* Fixed: Error "JLTMA_Extension_Particles does not have a method “ma_el_add_particle_admin” issue fixed. Thanks [@kmrao](https://wordpress.org/support/topic/jltma_extension_particles-does-not-have-a-method-ma_el_add_particle_admin/) for informing about the issue
+* Updated: SQL query bug issue fixed
+* Fixed: Space on heading class "MA Blog" issue fixed. Thanks [@steliosk82](https://wordpress.org/support/topic/problem-with-titles-in-ma-blog-posts/)
+* Updated: "MA Duplicator" security bug and Template Importing issue fixed
+* Updated: Error Array to String conversion on "MA Reading Progress Bar" issue fixed
+
+= 1.8.6 (06-03-2022) =
+* Updated: Sanitization, Escape & Validation issues fixed
+* Updated: Freemius SDK Updated
+* Fixed: MA Blog - class spacing issue fixed. Thanks @steliosk82 for informing about the bug.
+* Fixed: MA Duplicator $wpdb->prepare() used for SQL Query
+* Updated: MA Countdown Timer updated
+* Updated: Rollback Version updated
+
+= 1.8.5 (27-02-2022) =
+* Updated: Sanitization, Escape & Validation issues fixed
+* Updated: Template Library not working issue fixed
+
+= 1.8.4 (23-02-2022) =
+* Updated: Sanitization, Escape & Validation issues fixed
+* Updated: All remote Image and Script, Style url's moved on local scope
+* Updated: Stable Tags updated
+* Updated: Featured Product Rating style issue fixed
+
+= 1.8.3 (21-02-2022) =
+* Updated: MA Timeline broken html issue fixed
+
+= 1.8.2 (20-02-2022) =
+* Updated: All Ajax Requests Security bug issues fixed
+* Updated: Master Addons Editor icon alignment issue fixed
+
+= 1.8.1 (30-01-2022) =
+* Added: New Addon Element "Comparison Table" released
+
+= 1.8.0 (16-01-2022) =
+* Added: New Addon Element "Comparison Table" released
+* Updated: Counter UP Content Alignment issue fixed
+* Updated: Pro version CSS file not found issue fixed
+* Updated: Swiper Slider not working issue with Team Slider, Timeline, Blog Carousel, Logo Slider etc has been fixed
+* Fixed: Image Hover Effects - External Links not working issue fixed
+
+= 1.7.9 (10-01-2022) =
+* Fixed: Unreleased Addons list updated
+
+= 1.7.8 (10-01-2022) =
+* Added: New Extension "Tooltips" added
+* Fixed: Mega Menu Popup not working issue fixed
+* Fixed: Mega Menu Enable/Disable and "Edit with Elementor" button switcher issue fixed
+* Fixed: Floating Effects not working issue fixed
+
+= 1.7.7 (02-01-2022) =
+* Fixed: Plugin Activation error fixed
+
+= 1.7.6 (02-01-2022) =
+* Added: New Addon "Source Code" Addon added
+* Updated: Replaced string "MELA" on Master Addons Options panel
+* Fixed: 'is_pro' warning showing on admin panel, issue fixed
+* Fixed: Advanced Tabs - Tabular Content style issue fixed
+* Updated: Panel "Master Addons" Icon color issue updated to white
+* Updated: Dashboard Widgets feed xml error issue fixed
+* Updated: Infobox Style - Five and Ten Updated, fixed broken Hexagon layout
+* Updated: Image Hotspot - Tooltip position for individual item issue fixed
+* Fixed: Modal Popup on Header Footer Templates not working issue fixed
+
+= 1.7.5 (24-11-2021) =
+* Updated: Icons Extended Extension updated with Icons Library - Elementor Icons, Simple Line Icons, Iconic Font Icons, Linear Icons, Material Icons.
+* Updated: Admin UI updated
+* Updated: Display Conditions Extension for protecting contents updated for Sections. Previously, it was only for widgets or elements. Now it supports Sections also
+* Removed: Trials removed from Master Addons for Elementor
+* Fixed: Display Conditions Output HTML checkbox not working issue fixed
+
+
+= 1.7.4.1 (24-10-2021) =
+* Removed: Feather Icons, Remix Icons, Teeny Icons from Icons Library Manager
+* Added: Elementor Icons, Iconic Font Icons, Linear Icons, Material Icons, Simple Line Icons added on Icons Library Manager
+* Added: Icons Library Manager Options added on Master Addons Admin Panel and configured with White Label Options
+* Fixed: White Label Options not saving issue fixed
+* Fixed: Mega Menu popup not showing issue fixed
+* Fixed: Header, Footer & Comment Form Builder popup not showing issue fixed
+
+= 1.7.4 (11-10-2021) =
+* Fixed: Pricing Table button not showing issue fixed
+* Fixed: Comments addon not showing on Addons list issue fixed
+
+= 1.7.3 (24-09-2021) =
+* Updated: Elementor Free Icons not found issue fixed
+* Updated: Reading Progressbar extension warning issue fixed
+* Updated: Updated Pricing Page
+
+= 1.7.2 (24-09-2021) =
+* Fixed: Glassmorphism Extension Class not found issue fixed
+
+= 1.7.1 (24-09-2021) =
+* Fixed: Update notice error issue fixed
+* Fixed: Text Domain issue fixed
+
+= 1.7.0 (24-09-2021) =
+* Updated: All Addons and Extensions styles re-coded for speed optimization
+* Updated: RTL support for both Admin Panel and All Addons and extensions
+* Updated: Dual Headlines - fixed icon size and color not working issues. Added, Icon sizes and fixed typo "text color"
+* Updated: Deprecated method _content_template() fixed on all elements and extensions
+* Updated: Advanced Accordion - Toggle/Accordion option not working issue fixed
+* Updated: Progressbars loading bar not showing issue fixed both admin and frontend
+* Updated: Team Members - Added
+* Removed: Bootstrap dependecies removed
+* Fixed: Image Hotspots - fixed not working on editor mode and individual item icon color not changing issue
+* Fixed: Counter Up - Editor style not working issue and Counterup not working on editor mode
+* Updated: Creative Links - organized option settings
+* Updated: MA Tooltip - Completely re-coded with tippy.js with extensive options
+* Updated: MA Image Filter Gallery - Tooltip functionality updated
+* Updated: MA Hotspots - Tooltip functionality updated
+* Updated: MA Pricing Table - Tooltip functionality updated
+* Added: "Tooltip" extension added, now any element/section can have Tooltips
+* Updated: Table of Contents - addon fully re-coded with bug fixes.
+* Removed: Team Slider - Circle svg Animation style 05,06,07 has been removed for file not found.
+* Updated: Team Slider - Carousel Arrow Distance style not working issue fixed
+* Updated: All Addons deprecated `_register_controls` method replaced with `register_controls()` for later Elementor 3.0.0 supports
+* Updated: All Element Addon translation support given, editor broken issue fixed
+* Added: Pricing Table - Icon control Color Control, Icon Size, Icon Padding, Icon Margin settings added
+* Added: MA Search Addon - added Popup settings for Input Text and Description text change
+* Added: Restrict Contents - added fields are - Password fields placeholder text,Age restricting select fields, Math Captcha fields width on style tab.
+* Added: New Addon Element Image Carousel Addon
+* Updated: Info box - Title hide while selecting icon issue fixed
+* Updated: Logo Carousel - Logo Slider updated with Swiper Slider
+* Updated: Team Slider - Team Slider updated with Swiper Slider
+* Updated: Admin Notice for Review and Upgrade design updated
+* Updated: Blog - Blog Slider updated with Swiper Slider
+* Updated: Timeline - Timeline style updated, Horizontal Timeline slider updated
+* Support: PHP version 5.6 supported
+* Updated: Current Time - reference link updated
+* Updated: Search Addon - Icon Color not changing and SVG Icon editor error issue fixed
+* Updated: Blockquote Addon - Blockquote Color, Typography, Background Color, Text Alignment etc style options added
+* Updated: Toggle Content - Default Label Content added
+* Fixed: Advanced Image - Lightbox Image not showing issue fixed
+* Fixed: Header Footer & Comment Builder - popup not working issue fixed
+* Fixed: Counter Up -Number Suffix and Number Prefix added for counter
+* Fixed: Toggle Content - Indicator Background Color, Width, Height options added
+
+= 1.6.6 (08-09-2021) =
+* Update: Style Tab not working on Custom Breakpoints issue fixed
+* Compatibility: Latest Elementor and Elementor Pro Compatibility
+
+= 1.6.5 (09-07-2021) =
+* Dependency: Elementor Custom Breakpoints plugin updated with latest Elementor Support
+* Tweak: Removed `Elementor\Scheme_Typography` deprecated function and updated with `Elementor\Core\Schemes\Typography`
+* Tweak: Removed `Elementor\Core\Schemes\Color` deprecated function and updated with `Elementor\Core\Schemes\Color`
+* Update: MA Toggle Content - Label field cann't change issue fixed, fixed Icon picker issue also.
+* Dependency: Stratus Theme supports given
+* Fixed: Display Conditions not working issue fixed
+* Fixed: Image filter gallery Image source not getting issue fixed
+* Fixed: Removed "Master Addons for Elementor" text on Editor Breakpoints
+
+= 1.6.4 (30-05-2021) =
+* Fixed: Many "MA Icons" icons showing issue fixed.Thanks to @slipperyman, Support URL: https://wordpress.org/support/topic/many-ma-icons/
+* Added: Floating Effect was removed, it's added again to work smoothly.
+
+= 1.6.3 (30-05-2021) =
+* Updated: Team Slider, Image Carousel Arrows & Pagination re-structured. Outside arrows not working issue fixed
+* Fixed: Oceanwp theme conflicts with bootstrap.min.css file issue fixed
+* Fixed: Animated Gradient - Add New button not working issue fixed. Thanks @oscarlopem, Support URL: https://wordpress.org/support/topic/animated-gradient-background-does-not-work/
+* Updated: MA Icon not showing on Page/Post Editor. Conflicting with "Elements Kit" plugin issue fixed
+
+= 1.6.2 (25-04-2021) =
+* Fixed: Admin area text "Master Addons for ElementorMaster Addons" for network levels issue fixed. Thanks @sneoo4, Support URL: https://wordpress.org/support/topic/text-master-addons-for-elementormaster-addons-appear-in-admin-area/
+
+
+= 1.6.1 (24-04-2021) =
+* Fixed: Mega Menu REST API data not saving issue fixed. Thanks @toki666, Support URL:https://wordpress.org/support/topic/mega-menu-not-save
+* Fixed: Mega Menu not working issue fixed
+* Fixed: Dual Heading: Description alignment not working
+* Fixed: Cross-Site Scripting(XSS) for widget issue fixed - Dual Heading, Accordion, Animated Headlines, Gradient Headline, Blog, Flipbox, Image Carousel, Image Hover Effects, Team Members Slider,
+* Fixed: Timeline: Icon not working issue fixed
+* Updated: MA Search color not working issue fixed. Border, Padding added for Search Icon
+* Fixed: Debug warnings 'thumbnail_size' for Image Hover Effect, Team Member issue fixed
+* Fixed: "News Ticker" content not showing as slide. When hover there is a URL but no text issue fixed
+* Fixed: "Dual Heading" Description alignment not working issue fixed
+* Fixed: "Team Slider" - overlapping content on Fade Effect for Team Carousel issue fixed
+* Fixed: "Team Slider" - Style>Position not working issue fixed
+
+
+= 1.6.0 (27-03-2021) =
+* Fixed: Dynamic Tags not working issue fixed
+* Fixed: Tooltip styles broken issue fixed
+* Fixed: Dashboard Text upper menu issue fixed
+* Fixed: Timeline - Custom Timline Date not showing issue fixed
+
+= 1.5.9 (11-03-2021) =
+* Fixed: Menu Title not showing issue fixed
+
+= 1.5.8 (10-03-2021) =
+* Fixed: Form Addons and Marketing addons not found on Elementor Panel issue fixed.
+* Added: White Label Options added for Developer Plans only feature.
+* Added: System Information tab added on Settings panel. It has all necessary informations about current website. Copy to clipboard added for faster support of list of Active plugins.
+* Fixed: Advanced Accordion default padding issue fixed.
+* Fixed: MA Image Carousel - Column not working issue fixed
+* Compatibility: Latest WordPress v5.7 and Elementor v3.1.4
+
+= 1.5.7 (28-02-2021) =
+* Updated: 'jquery-slick' updated with 'Swiper Slider' library. Updated Widgets - MA Blog, MA Slider, MA Gallery Slider, MA Twitter Slider, MA Timeline etc
+* Added: New Element added "Advanced Image".
+* Added: "MA Duplicator" added on Extensions
+* Updated: Fully revamped plugins file structure with namespace and file locations.
+* Updated: Domain Checker - Added Search Button Link for Affiliates and anyone can integrate WHMCS for searching Domains.
+* Removed: Slick Slider removed from Gallery Slider
+* Removed: Slick Slider removed from Blog Element
+* Removed: Slick Slider removed from Timeline
+* Removed: Slick Slider removed from Logo Carousel
+* Removed: Slick Slider removed from Image Carousel
+* Removed: Slick Slider removed from Twitter Carousel
+* Updated: Blog Element updated with Swiper Slider support and improved functionality.
+* Updated: Gallery Slider updated with Swiper Slider support
+* Updated: Timeline Element fully revamped with new UI and fixed bugs
+* Removed: "MA" word removed from all Elements
+* Added: Blog Posts Element - Added "All" text change option on Category Tabs filter. Thanks to @link1921u. Feature Request URL: https://wordpress.org/support/topic/string-all-in-ma-blog/
+* Added: Blog - 2 new options added for thumbnail position - a)Top Thumb, Bottom Title and b)Bottom Thumb, Title Top. Thanks @link1921u. Feature Request URL: https://wordpress.org/support/topic/image-under-title-author-date-ma-blogs/
+* Fixed: Filterable Gallery - Tooltip not working issue fixed
+* Fixed: Filterable Gallery - Filterable Navigation Show/Hide issue fixed
+* Added: Filterable Gallery - Tilt Effect with option settings added
+* Added: Filterable Gallery - Editor not working and "global" undefined console error issue fixed.
+* Added: Filterable Gallery - Lightbox image overlaps like one after another issue fixed. Thanks to @pedropamn. Support Link: https://wordpress.org/support/topic/bug-when-image-is-clicked/
+* Added: Vertical Timeline - Editor not working and "global" undefined console error issue fixed.
+* Updated: Team Slider - Carousel Settings updated with latest Swiper compatibility
+* Updated: Image Carousel - Carousel updated with Swiper Compatibility
+* Updated: Logo Slider - Carousel updated with Swiper Compatibility
+* Updated: Twitter Slider - Carousel updated with Swiper Compatibility
+* Removed: "Instagram Feed" removed due to recent update of Instagram API changes
+* Updated: Repeater Fields not working on Editor and having a gray color background issue fixed for - Advanced Accordion, Animated Headlines, Business Hours, Changelogs, Image Filterable Gallery, Image Carousel, Image Hotspot, Image Hover Effects, Logo Slider, Pricing Table, Slider Element, Dynamic Table, Advanced Tabs, Timeline, Toggle Content etc
+* Updated: Dual Heading - First Heading and Description Alignment not working issue fixed. Conditions applied for First Heading and Description alignment
+* Updated: Completely revamped "Advanced Accordion" with better UX. Removed all unnecessary elements and styles. Can do any type of design now like gradient title, gradient color content etc. Toggle content alignment issue fixed and updated.
+* Fixed: MA Tabs editor preview not working issue fixed
+* Fixed: MA Progressbars editor preview not working issue fixed
+* Updated: Team Members fixed issues - Content alignment not working fixed, Social Icons repeater not working on editor fixed, Social icons style updated, added placeholder image if no image selected.
+* Updated: Image Hover Effects - removed "No Image Selected" notice and added placeholder image for better user experience.
+* Updated: Background Slider Extension - fixed Editor not loading issue
+
+
+
+= 1.5.6.2 (24-01-2021) =
+* Added: Custom Timeline date_format option added.
+* Updated: Fully Multisite supported
+* Fixed: Multisite Activation error issue fixed
+* Updated: Multisite License update all over network updated
+* Updated: Widgets loading on each Multisite require files updated
+* Added: Advanced Accordion - Border Radius, Box Shodow added on Title
+
+
+= 1.5.6 (10-01-2021) =
+* Added: "Gradient Headlines" Element added
+* Tweak: worked on Performance issue
+* Fixed: Few CSS issue fixed
+
+= 1.5.5 (26-12-2020) =
+* Added: Particles Extension "Z-Index" option added
+* Added: Wrapper Link extension. Supports - Individual Elements, Sections & Columns. You can Make Section or Column Clickable on Elementor.
+* Updated: We've got numerous requests about performance issue. Updated Huge performance updated on both Editor and Frontend. Loading scripts and styles conditionally.
+* Added: Animation settings added on "MA Animated Headlines" widget element
+* Added: Gradient Color Option added on Reveal
+* Updated: MA Reveal - reveal for Columns supports given
+* Fixed: Admin Notice "Never Show Again" not working issue has been fixed
+* Fixed: Creative Buttons style issue fixed for - Winona, Tamaya, Rayen, Nina, Nanuk, Antiman, Itzel, Naira, Quidel etc
+* Fixed: Team Members - Social Icons with Content Alignment issue resolved
+* Fixed: Progressbar - input number showing wrong fill bar color issue fixed
+* Fixed: MA Infobox - Color and style issue for variation one, two, five, seven, eight, nine and ten fixed
+
+
+= 1.5.4.1 (8-12-2020) =
+* Fixed: Sweetalert2 issue fixed on Admin "Save Settings"
+* Fixed: Mailchimp Addon conflicting ID issue fixed
+
+
+= 1.5.4 (22-11-2020) =
+* Updated: Slow Down Elementor issue resolved. All Scripts and Styles dependecies will only active while the specific addon will be added.
+* Removed: Team Member default Background color removed
+* Fixed: Uncaught Error: Class 'Elementor\Plugin' not found issue fixed for Floating Effects
+* Added: alignment, padding option added for Icon, Title, Desciption on MA Infobox
+* Added: MA Counter Up - Added Individual item Background Color Option
+* Added: MA Blog - Added Show/Hide Read More link
+* Updated: Getting Error "elementorFrontend" is not defined issue fixed for "Custom Breakpoints"
+* Support: Formidable Form supports given, conflicting issue with Checkbox, Labels issue fixed
+* Fixed: Active Text color white issue on "MA Image Filter Gallery" issue fixed
+* Updated: Reveal extension bug - Anime.min.js updated
+* Added: Morphing Blob Effect Extension
+* Added: Main plugin file renamed from 'master-elementor-addons.php' to 'master-addons.php'
+* Fixed: Upsell coupon code typo issue fixed. 25% discount given. Also made the strings translatable
+* Updated: "Total Number of Posts" on MA Blog Posts Pagination issue fixed
+* Updated: "Pagination Alignment" on MA Blog updated and fixed
+* Added: Added "Active" tab on MA Blog>Style>Pagination for styling Active pagination items
+* Updated: Freemius Library Updated from v to v2.3.0
+* Fixed: "responsive_icon.svg" icon not found on Console issue fixed
+* Updated: Performance issue on Elementor Eidtor Speed increased. Re-factored files for lowest requests
+* Updated: "MA Dual Heading" - Enable Icon condition issue fixed, General settings changed to Icon Settings
+
+
+
+= 1.5.3 (28-09-2020) =
+* Added: Version Rollback option added on "Master Addons" option menu if something happened wrong. Users can Rollback to Previous version.
+* Fixed: MA Table Icon not working issue fixed
+* Released: Floating Effects extension added
+* Updated: Transfroms Extension updated. On previous there's lack of interactions and slow the Editor Process. Imrpoved the functionality and performance.
+* Fixed: MA Advanced Accordion - Saved Section, Widget, Page Templates pro message shown
+* Fixed: MA Current Time - Custom Date Format dropdown issue fixed. Changed to TEXT format
+* Fixed: MA Countdown Timer - Datetime format issue fixed on Countdown timer. On previous time showing wrong format.
+* Added: Tooltip "Visible on Hover" added on "MA Tooltip" and "MA Image Hotspot" extension
+* Removed: Group Control "Transofrms" removed
+* Removed: Single Control "Transofrms" removed
+* Removed: Single Control "XY Position" removed
+
+
+= 1.5.2.1 (14-09-2020) =
+* Fixed: is_woocommerce_active() function return missing issue fixed
+
+= 1.5.2 (13-09-2020) =
+* Fixed: Animated Headlines - Backend not working issue has been fixed. Now, working perfectly on both backend and frontend.
+* Added: Animated Headlines - Added Padding, Margin, Border, Border Radius and Box shadow for more controls on animated headlines
+* Fixed: Reading Progres Bar warning fixed
+* Added: Item Padding option added on Navmenu
+* Removed: Default Tablet background color removed from Navmenu
+* Added: Comment Form Submit Button - Background Color, Typography, Padding, Margin, Border, Border Radius, Box shadow added
+* Fixed: Progress Bars - active bar color option added, stats alignment(left,default,right) option added
+* Fixed: Call to Action - Background Color not changing issue fixed
+* Removed: Call to Action - Background Color Style Preset not required, already it has options and removed
+* Removed: Call to Action - Gradient Background Color Style Preset not required, already it has options and removed
+* Fixed: Call to Action - Background Color not changing issue fixed
+* Updated: Call to Action - Previous Icon dropdown select option replaced with Icon Picker Library.
+* Updated: Call to Action - re structured UX settings for better control. Added more controls like padding, margin, border radius, Button Style etc
+* Added: Filterable Portfolio Gallery - Image Popup Icon select option added, Added Icon size option on Style Tab
+* Added: Filterable Portfolio Gallery - Title Typography, Description/Sub Title typography and Color not working issue fixed
+* Fixed: Team Carousel - Responsive Slider Controls on Desktop, Tablet, Mobile not working issue fixed
+* Fixed: Fully compatible "MA Editor Button" placement issue on Tweentytwenty Theme and other themes
+* Fixed: MA Counter Up - Color, Typography style not working issue fixed
+* Fixed: MA Flipbox - Icon Picker changed on both Front and Back box from dropdown to Elementor Icon Library
+* Fixed: MA Flipbox - Front Box description not showing issue fixed
+* Fixed: MA Flipbox - Title's changed from TEXT to TEXTAREA for better visibility. Design Styles bring to front for better UX, re-arranged controls for better usablity.
+* Updated: MA Flipbox - Added more controls on Action Button Style Tabs - Normal and Hover Settings
+* Updated: Main Navigation style breaking with some Themes has been fixed.
+* Updated: Advanced Acordion - Collapse, Open icons changed from Dropdown to Icons Library. Repeater Icon also changed
+* Updated: Blog Element - Excerpt Icon changed from Dropdown to Icons Library, Icon alignment issue fixed
+* Updated: Business Hours - Icon dropdown changed to Icon Library Picker, Checked other compatibility
+* Updated: Creative Icons - Design Style Presets bring on front instead of Style Tab. Icon dropdown changed to Icon Library Picker, Icon Alignement issue fixed.
+* Updated: Creative Links - Icons Library Updated to latest Fontawesome 5 Icons support. Alignement block issue fixed, brought Style Presets in fornt for better usability
+* Updated: Dual Heading - Icons Library Updated to latest Fontawesome 5 Icons support. Alignement block issue fixed, brought Style Presets in fornt for better usability. Conditional Icons select option fixed
+* Updated: Image Hover Effects - Icons Library Updated to latest Fontawesome 5 Icons support.
+* Updated: MA Infobox - Icons Library Updated to latest Fontawesome 5 Icons support. Style Presets brought on Content Section for better experience.
+* Updated: Pricing Table - Icons Library Updated to latest Fontawesome 5 Icons support. Style Presets brought on Content Section for better experience.
+* Updated: Table of Contents - Icons Library Updated to latest Fontawesome 5 Icons support.
+* Updated: MA Tabs - Icons Library Updated to latest Fontawesome 5 Icons support.
+* Updated: MA Team Members - Icons Library Updated to latest Fontawesome 5 Icons support.
+* Updated: MA Tooltips - Icons Library Updated to latest Fontawesome 5 Icons support.
+* Added: MA Toggle Content - Icon options added on Repeater field and given compatibility.
+* Updated: MA Toggle Content - Icons Library Updated to latest Fontawesome 5 Icons support.
+* Updated: Bootstrap's default classes changed for conflicting issues with other themes - container, navbar, btn classes changed to "jltma-" prefix.
+* Updated: Default button color updated to Master Addons brand color also removed default font size, font family etc.
+* Supported: AcmePhoto Theme navigation broken style issue fixed
+* Supported: Comment Form - warning message showing for Hello Elementor Theme has been fixed
+
+
+
+
+
+= 1.5.1 (5-09-2020) =
+* Fixed: "Animated Gradient" repeater not working for Elementor v3.0 update issue fixed
+* Update: Template Importer support given for both Elementor v2.x.x and v3.x.x
+* Fixed: WooCommerce Checkout page style issue fixed
+* Fixed: Custom Breakpoints Panel height issue fixed
+* Fixed: Custom Breakpoints updated with native Elementor support. It works exactly like default Breakpoints.
+* Fixed: Custom Breakpoints - Section/Columns and all other elements Breakpoints support given.
+* Fixed: Custom Breakpoints - Section/Column Import Export also works now
+* Fixed: Header_Footer class not found on oceanwp and other Themes issue fixed
+* Added: Reply and Show Replies button margin option added
+
+
+
+= 1.5.0 (29-08-2020) =
+* Added: "Elementor Custom Breakpoints" added as Third Party Extension, which is also available on WordPress.org:https://wordpress.org/plugins/custom-breakpoints-for-elementor/
+* Fixed: "Template Import" not working on Elementor v3.0 issue fixed
+* Added: Dynamic Conditions Extension Added
+* Added: Dynamic Tags Extension Added (Which is available on Elementor Pro)
+* Added: Gallery Slider Addons Added
+* Updated: Toggle Content - Added Toggle Border on Style Tab
+* Renamed: Re-named extension "Transitions" to "Entrance Animation"
+* Updated: All Animation effects working now on Entrance Animation, also fixed animation delay JS issues.
+* Updated: Notices for Pro users showing asking to purchase issue fixed
+* Updated: Added Width & Height on "Image Hover Effects"
+* Added: Comment Form - Added 'website' field hide option on Comment form.
+* Fixed: Comment Form - Checkbox style issue fixed, placeholder not required for Checkbox(conditions fixed)
+* Info: Animated Gradient - Reapeater Field not working on Elementor v3.x.x Section/Columns and causing Section/Column Duplicate/Delete error. Details: https://github.com/elementor/elementor/issues/12270. Due to Elementor's core problem we've temporarily disabled multiple Color picker for Animated Gradient to work smoothly. While they'll fix the issue we'll enable it again.
+
+
+= 1.4.8 (26-08-2020) =
+* Updated: Quick update for giving suppor Elementor v3.0
+* Updated: Editor not loading on Elementor v3.0 issue fixed
+
+
+= 1.4.7 (16-08-2020) =
+* Added: Header, Footer & Comment Form Builder extension added
+* Updated: Multiple Toggle Content on same page not working issue fixed
+* Updated: Reading Progress bar warning issue fixed
+* Updated: Activation/Deactivation hook fixed, if not saved data then warning showing on Admin Settings problem fixed.
+* Fixed: Plugin Deactivation popup style issue fixed
+* Fixed: Toggle Content alignment css issue fixed
+* Added: Alignment added on Countdown Timer
+* Fixed: Fixed Rest API Endpoins notice - "register_rest_route was called incorrectly. The REST API route definition for  is missing the required permission_callback argument. For REST API routes that are intended to be public, use __return_true as the permission callback. for more information. This message was added in version 5.5.0"
+* Fixed: Mega Menu link not working issue fixed
+* Fixed: Image Comparison default Move Handle issue fixed
+
+
+= 1.4.6.1 (10-08-2020) =
+* Removed: Due to error, we've removed "Custom Breakpoints". We'll release it Addon/separate plugin.
+
+= 1.4.6 (10-08-2020) =
+* Updated: Admin UI changed to modern look and placed necessary links in front.
+* Updated: Elementor Custom Breakpoints enabled with fixes - not editing live editor and not saving changes issue fixed.
+* Fixed: Appearance>Themes UI changed issue fixed
+* Updated: Master Addons Scripts & Styles dependency only loaded for Master Addons Menu
+* Updated: Master Addons Admin Dashboard widget blog posts style issue fixed, removed contents and only Titles are showing for better appearance.
+* Added: Group Control Transitions added on "Image Hotspot" addon
+* Added: New Addon Element "Toggle Content" added
+* Added: New Extension "Custom JS" added. It's applied on Page "Advanced" Settings. Now, any kind of JavaScripts can be applied on specific page.
+
+
+= 1.4.5.5 (20-07-2020) =
+* Removed: Temporarily removed Custom Breakpoints for layout issue on frontend. Will fix it and enable it again asap.
+
+= 1.4.5.4 (20-07-2020) =
+* Fixed: Fatal error Elementor\Core\Base issue fixed
+* Updated: Reading progressbar warning fixed
+
+= 1.4.5.2 (20-07-2020) =
+* Fixed: Quick fix on fatal error.
+
+= 1.4.5.1 (20-07-2020) =
+* Fixed: Quick fix on fatal error.
+
+= 1.4.5 (18-07-2020) =
+* Added: Elementor Custom Breakpoints added as Extensions module.
+* Removed: "MA" Text removed from all Addon names on Admin backend "Addons" settings.
+* Added: Live Demo, Documentation and Video added on every Addon elements bottom for easily accessible help.
+* Added: Live Demo, Documentation and Video popup added on Addons switcher
+* Fixed: MA Blog Element - 1) Thumbnail Condition Checked on Style tab. 2) Content Color not working issue fixed. 3)
+* Updated: MA Tabs - 1) Icon & Tabs typo fixed. Border Radius issue fixed 2) Icon size was missing, now icon size can be controll on all styles
+* Updated: MA Timeline - 1) Horizontal space problem fixed 2) warning showings issue fixed
+* Fixed: Business Hours - warning issue fixed. Image size problem fixed
+* Updated: Dashboard UX changed. Demo, Documentation and Video Tutorials tooltip added with resource links. So, anyone can navigate to specific Addon and check how it works.
+* Updated: Dashboard UX codebase updated. Also, huge improvements with Clean codes & overall project codebase.
+* Removed: Image and Icon option removed from Infobox
+* Updated: MA Domain Search - Search default button style updated. Console error also fixed
+* Fixed: Dual Heading - undefined array getting errors for URL issue fixed. URL link to header issue fixed
+* Fixed: MA Team Members - undefined array getting errors for URL issue fixed. URL link to header issue fixed
+* Fixed: MA Flipbox - "Notice: Trying to access array offset " error fixed and conditionally opened Image and Icons.
+* Fixed: MA Image Hover Effects - "Notice: Trying to access array offset " error fixed and custom Message given for not selecting Image.
+* Added: Custom Message added on Helper Class. Implemented on Image Hover Effects.
+* Fixed: Master Addons>Changelogs php warning issue fixed
+* Removed: Dashboard Widget "Master Addons News & Updates" - content excerpt, publish date removed for making it clean
+
+
+
+= 1.4.4 (07-07-2020) =
+* Fixed: Animated Header extra div problem fixed
+* Fixed: Team Slider Free vs Pro Message issue on Premium Version showing message issue fixed
+* Removed: MA Infobox default Description hover removed.
+* Fixed: Reading Progress Bar - loading full site issue fixed. Now, it only loads enabled pages/posts.
+
+
+= 1.4.3 (06-07-2020) =
+* Added: Header & Footers Tab added on Template Library Editor popup. Currently pre-built 20+ Headers and 10+ Footer designs added on our Template Library.
+* Added: Reading Progress Bar on Page Settings Tab
+* Added: MA Duplicator for duplicating posts/pages and given support for Duplicating all kind of Custom Post Types
+* Fixed: Off Canvas Nagivation menu toggling with anywhere on webpage clicking issue fixed
+* Updated: MA Tabs updated script for nested Tabs. Now it supports Nested Tabs beautifully
+* Tweak: MA Tabs content typography and Title typography problem fixed. Added 1/12 columns on Tabular Content style
+
+
+
+= 1.4.2 (17-06-2020) =
+* Updated: Before After Image - Mouse handler not showing in Pro issue fixed
+* Fixed: MA Tabs - warning on installation issue fixed.
+* Fixed: MA Tabs - border radius not working problem fixed
+* Fixed: Vertical Tabs - width 70% problem fixed. Now, content is full width according to container
+* Fixed: Tabular Content - Font Size not working issue fixed
+* Updated: Cleanup unnecessary files for reducing plugin size
+
+= 1.4.1.1 (17-06-2020) =
+* Fixed: Warning showing on Admin fixed
+
+= 1.4.1 (17-06-2020) =
+* Updated: Improved Admin User Experience. Typography improved, Save button border problem fixed, navigation typography improved. After saving popup will automatically close, before it needs to close manually.
+* Fixed: Animated Headlines scripts issue fixed
+* Added: MA Tabs - Tabular Content Style added. Added few more controls - Padding, Margin, Border Radius, Box Shadow, Font Size etc.
+
+
+= 1.4.0 (11-06-2020) =
+* Added: New Addon "Instagram Feed" added
+* Added: New Addon "Image Comparison", after and before image comparison added
+* Fixed: Image Link duplicate checkbox removed from Image hover effect
+* Updated: Team Carousel - Default Style issue fixed, Help Tab adde added for easily navigate Videos, Blog article and Documentation
+* Updated: MA Infobox - default broken style issue fixed
+* Fixed: Backend sidebar search not working problem fixed
+* Updated: Onepage & Mobile Menu close by clicking outside issue fixed.
+* Added: Added new class for reset popular theme styles. Airi, Oceanwp theme default sytles issue fixed
+* Fixed: Infobox Border not working problem fixed
+* Fixed: MA Team Members Carousel Slider Columns not working problem fixed.
+* Added: MA Infobox - Border Radius, Margin, Padding added
+* Fixed: MA Infobox- Border type not working problem fixed
+
+= 1.3.9 (29-05-2020) =
+* Updated: Set Border Radius individual corner, removed previous %/px settings. Added Margin, Padding for Image, Title and Description
+* Fixed: For Premium users on MA Tabs "upgrade pro" message on Style Tabs fixed.
+* Fixed: Search - console error with JS re-factored. Icon Popup CSS and JS bug fixed.
+* Added: New Widget "Blockquote" added
+* Fixed: Oceanwp Theme footer conflict issue fixed
+* Fixed: Image Hover Effect - Custom Image size issue.
+* Fixed: MA Team Members - Custom Image size issue.
+* Added: Image Hover Effects - Popup Image, Popup Content, Popup Section, Popup Page Template options added to PRO version.
+* Added: Blockquote - new Element added.
+
+
+= 1.3.8 (13-05-2020) =
+* Removed: Margin bottom removed from Image Hover Effects
+* Fixed: For Premium users on MA Tabs "upgrade pro" message on Style Tabs fixed.
+
+
+= 1.3.7 (11-05-2020) =
+* Fixed: Free and Pro version conflicting fatal error issue fixed.
+* Fixed: Image Hover Effects - Image equal and dynamic height problem fixed. Alignment problem fixed.
+* Fixed: Image Hover Effects - on editor extra padding problem fixed.
+* Fixed: Image Hover Effects - Added Box Shadow. Default set Lily to Sadie effect. Image height problem on editor fixed
+* Fixed: Creative Links margin issue fixed
+
+
+= 1.3.6 (06-05-2020) =
+* Fixed: If Contact Form 7 turned off all addons hidden on Editor issue fixed.
+* Fixed: Editor edit mode not working issue fixed
+
+
+= 1.3.5 (06-05-2020) =
+* Added: MA Tabs: more controls added on Tab Heading & Tab Content. Options added - padding, margin, border, border radius etc
+* Updated: MA Blogs- Filter by Category Filter and Navigation option updated. Now, posts can be filtered by category.
+* Removed: MA Navmenu- Justify alignment removed from desktop.
+* Added: MA Navmenu- Hamburger menu alignment added for Desktop
+* Fixed: MA Navmenu- On Scroll Sticky, Smart Scroll, Fixed On Scroll, Fixed Top not working issue fixed
+* Fixed: MA Navmenu- Tablet screen menu not working problem fixed
+
+
+= 1.3.4 (27-04-2020) =
+* Fixed: Template Library Editor Popup Conflicting issue with other plugins
+* Fixed: Image Hover Effects: Image size warning issue fixed
+* Fixed: MA Search: Fixed styling Search form and button issue.
+* Fixed: MA Restricted Content - Age Selection scrollbar css issue fixed. All "On Page" requests done by ajax.
+* Removed: MA Restricted Content - All "On Page" requests, reloading pages
+* Fixed: Gravity Form - Gravity Form not working problem fixed
+* Fixed: MA Creative Links - Duplicate end_controls_section() causing error issue fixed
+* Fixed: MA Navigation Menu - Overlaping Mega Menu contents issue fixed
+* Fixed: Master Addons Changelog error - 'Array and string offset access syntax with curly braces is deprecated' issue fixed
+* Fixed: MA Mailchimp menu not showing on Addons list issue fixed
+* Fixed: Oceanwp Theme Main Navigation gone while activating Master Addons issue fixed
+
+
+= 1.3.3 (13-04-2020) =
+* Fixed: Mega Menu Dropdown padding issue fixed
+* Fixed: Contact Form 7 not showing on dashboard issue fixed
+* Fixed: MA Team Slider - Dots & arrow showing conflict issue fixed
+* Fixed: Mega Menu - Tablet background color issue fixed, menu_label warning issue fixed
+* Fixed: Restrict Content - Onpage restrict not working issue fixed
+* Updated: MA Contact Form - Label display half on contact form issue fixed
+* Removed: "Roboto" font family removed as default form stylesheet
+* Added: MA Team Slider - HTML Tags option added on MA Team Slider
+* Added: MA Counter Up - Responsive Padding & Margin added
+* Added: Ma Navmenu - Tablet Menu issue fixed,
+
+= 1.3.2 (05-04-2020) =
+* Added: New Addon "MA Counter Up" element added, Box Shadow removed.
+* Added: New feature added on "MA Domain Search" with Affiliation, Custom Messages, style issues fixedma
+* Fixed: "MA Team Member" background not changing issue fixed
+* Fixed: Image hotspot: Icon not showing issue fixed
+* Fixed: MA Navmenu - Submenu Indicator no default option fixed, warning showing navmenu walker issue fixed
+* Fixed: MA Dual Heading - Text Alignment on first heading option added, fixed width issue fixed. Adjustment issue fixed for first heading.
+* Updated: MA Team Member Slider - Box Shadow removed. Default space given on Desktop & Tablets.
+* Fixed: MA Image Filter Gallery - Preview Icon not showing problem fixed,
+* Added: MA Navigation Menu - On Scroll, Smart Scroll, On Scroll Fixed, Fixed menu styles and animation styles added.
+
+= 1.3.1 (02-04-2020) =
+* Added: "Mega Menu" extension added with huge customization options
+* Added: "MA Navigation Menu" element added with huge customization options
+* Added: "MA Search" Addon added
+* Added: "MA Domain Search" Addon added
+* Added: "MA Table" Addon added with dynamic customization Options
+* Added: "MA Countdown" Addon added
+
+* Fixed: MA Tabs - replaced Textarea with Editor.
+* Fixed: MA Pricing Table - Fixed footer link not working issue.
+* Fixed: MA Infobox - error showing on links, image not found
+
+
+= 1.3.0 (09-03-2020) =
+Fixed: Mega Menu file not found issue on backend warning fixed.
+
+= 1.2.9 (27-02-2020) =
+* Fixed: MA Filter Gallery > Filter Nav On/Off issue fixed
+* Added: MA Filter Gallery > Button Styles- Background Color, Text Color, Typography, Box Shadow, Padding added.
+* Added: MA Filter Gallery > Filter Alignment added on Style tab
+* Fixed: "MA Add Element" button hidden after Elementor version 2.9 issue fixed
+* Fixed: Ready Pages not showing issue fixed on MA Elementor Template Kit
+* Added: Templates Title name added on every Template on modal popups
+* Fixed: Popup color fade issue with dark Elementor fixed
+* Fixed: Filters by Addon positioned on right side
+
+ = 1.2.8 (19-02-2020) =
+ * Fixed: MA Filterable Gallery Duplicate URL issue fixed
+ * Fixed: MA Timeline "Posts Per Page" error issue fixed
+ * Fixed: CSS issue with other websites typography, color and other settings. Fixed problem loading CSS files while Buttons, Creative Links, News Tickers are disabled.
+ * Added: 6 New Extensions added - Positions, Transforms, Transitions, Reveal, Rellax, Container Extras, Advanced animations.
+ * Added: 2 New Addons Added - Restrict Content and Current Time.
+
+ = 1.2.7 (27-01-2020) =
+ * Fixed: After Activating Elementor Pro, "MA Custom CSS" codes disappear issue fixed
+
+ = 1.2.6 (25-01-2020) =
+ * Fixed: 'ma-restrict-content' error on backend issue fixed
+
+ = 1.2.5 (24-01-2020) =
+ * Fixed: Background Image issue on Business Hours addon fixed
+ * Added "MA Custom CSS" Addon.
+ * Fixed: MA News Ticker conflicting with other Tickers fixed
+ * Added: Text Alignment added on MA Animated Headlines
+ * Re-factor all codes, conflicting with Free Version Plugin.
+ * Modules - Background Image Slider, Particles, Animated Gradient Module Class re-factored.
+
+ = 1.2.4 (31-12-2019) =
+ * Fixed: Promotional Banner showing only "Master Addons" admin Page. "Close" button for not showing promotional content
+  issue fixed.
+ * Added: New "MA Pricing Table" Elementor Addons added with exclusive, feature-rich and extensive customization options
+ .
+ * Fixed: Master Addons Icon not showing on Pro version issue fixed.
+
+
+ = 1.2.3 (14-12-2019) =
+ * Added: Blog Excerpt "Read More" style, typography, padding, margin added
+ * Added: Read More Icon added with left,right alignment. Padding option also given.
+ * Added: Border Radius added on Thumbnail Image
+ * Fixed: Blog Post Meta Separator fixed
+ * Fixed: Blog Pagination Margin issue fixed
+ * Added: Blog Title Padding and Margin Added
+ * Added: Content Scroll Indicator Element added
+
+ = 1.2.2 (10-12-2019) =
+ * Fixed: Image Hover Effects error issue fixed.
+ * Fixed: Markdown Constructor method error fixed.
+ * Fixed: Promotional Content Skip Link added
+ * Fixed: MA Timeline ICONS method issue fixed.
+
+
+ = 1.2.1 (26-11-2019) =
+ * Fixed: Dashboard all checkbox Off issue
+ * Added: Promotional Banner added for Black Friday and Cyber Monday lifetime deals for $29
+ * Fixed: If Contact Form 7 Installed and Activated then Contact Form Element will load issue fixed.
+ * Fixed: Scrolling issue on Master Addons Admin issue fixed
+ * Fixed: cann't redeclare 'ma_el_image_border_color' issue fixed
+
+ = 1.2.0 (18-11-2019) =
+ * Removed: tocbot.css file removed. CSS moved to main css file. Duplicate contents of css loading
+ * Fixed: Extensions Pro issue fixed.
+ * Fixed: Title color not changing "Style 2" on Call to Action fixed
+ * Fixed: Applied Osaka Pro Theme Download link on Premium Plugin Version
+
+
+ = 1.1.9 (11-11-2019) =
+ * Fixed: 'ma_el_blog_users' misspelled on MA Timeline
+ * Fixed: 'ma_el_bh_table_btn_link' butto link on MA Business Hours
+ * Fixed: "(pro)" removed from MA Creative Links
+ * Fixed: MA Image Carousel Addon Name fixed
+ * Added: MA Timeline Addons Added
+ * Update: MA Image Filter Gallery Addons Added. Sponsors carousel or Logo Carousel, Client Carousel, Image Carousel
+ with text will be added next update.
+
+
+ = 1.1.8 (04-11-2019) =
+ * Fixed: Fixed error Elementor\Group_Control_Base
+
+ = 1.1.7 (01-11-2019) =
+ * Fixed: MA Image Hotspot Tooltip issue fixed
+
+ = 1.1.6 (29-10-2019) =
+ * Added: MA Image Hotspot Added
+ * Fixed: MA Image Hover effect css issue fixed
+ * Fixed: Ma Flipbox hover effect issue fixed
+
+ = 1.1.5 (22-10-2019) =
+ * Fixed: Image Hover Effects Conditions fixed. Title, Social Links, Descriptions conditionally show issue fixed with
+ CSS.
+
+
+ = 1.1.4 (15-10-2019) =
+ * Tweak: Team Slider Content Drawer conflicting with Slick Slider issue resolved.
+ * Added: Team Slider Added Background Image Position Left, Top for proper adjustment.
+ * Added: Team Slider Added Team Member Image Position Left, Top for proper adjustment.
+ * Tweak: Fixed Animation SVG not showing issue.
+ * Updated: Updated 6 Circle Gradient Layout styles for Team Slider Background
+ * Added: Rounded Style Team Members Added
+ * Fixed: Dashboard Extensions, Addons tabs error fixed.
+ * Added: Image Size, Background Image size added on Team Slider Image
+ * Added: Dual Heading Icon fixed
+ * Added: MA Accordion Single Item class error fixed
+ * Added: Added Icon Border Color on MA Flipbox
+ * Added: "MA" icon added on Widgets top right corner
+ * Fixed: MA Infobox - Title and Description hover color issue fixed
+ * Added: "MA" top right corner icon added for easy identical. MA Icon css issue fixed
+ * Fixed: MA Creative Button style issues fixed - Winona, Tamaya, Rayen, Isi, Saqui, Nina, Nanuk, Itzel, Naira, Sacnite
+ buttons etc.
+ * Added: Missing Bootstrap css file added.
+ * Added: MA Infobox- Icon Color, Icon Background, Icon Hover Color and Icon Hover Background Color option added
+ * Tweak: MA Creative Button Box Shadow on Hover issue fixed
+ * Fixed: MA Team Carousel Image not showing problem fixed
+ * Added: MA Team Carousel and MA Team Members Content Alignment feature added
+ * Added: Added Border for MA Team Carousel Navigation items
+ * Added: 3d Flipbox Added on MA Flipbox
+ * Added: Added Image Hover Effects and Style issues fixed.
+ * Added: MA Blog Element Addons with huge Customizations Options.
+ * Added: MA News Ticker Addon, you can do any kind of variations by yourself
+ * Added: MA Business Hours - bunch of Customizations and Layout Variations
+ * Added: MA Table of Contents - Must have Addon for Content Creators. Unlimited variations for Table of Contents.
+
+ = 1.1.3 (10-09-2019) =
+ * Fixed: Icons Color Changed "Normal" and "Hover" Options given on MA Dual Headlines
+ * Fixed: Creative Button Saqui Transform style fixed
+
+ = 1.1.2 (06-09-2019) =
+ * Fixed: MA Team Members Carousel JS issue fixed
+ * Fixed: MA Changelog h2 tag overlap issue fixed
+ * Removed: MA Flipbox Duplicate Background removed
+ * Removed: MA Flipbox Front Box Title, Description color Removed.
+ * Fixed: MA Team Carousel Gridder offset problem fixed
+ * Fixed: Call to Action Variations Added, Gradient, Background Image, Typography added
+ * Updated: Master Addons Admin Page re-factored. Minimal Designed, Compressed Addons spacing for better visuals.
+ * Removed: Master Addons Admin page - "How to" section with Demo links. Removed all Images from source folder for
+ decreasing Plugin size. Reduced 12MB to 4MB. All Images will be loaded from Master Addons website.
+ * Updated: Flipbox Background Color Updated
+ * Added: Team Slider - Item Spacing for all team member options, Gridder spacing, Gridder Background Color and
+ Designation Color option Added.
+ * Team Members
+ * Added: MA Flipbox Front Text and Back Text Alignment
+ * Added: Nested Tabs feature added for MA Tabs.
+ * Updated: Re-factored MA Tabs Codes
+ * Added: Multicolor Accordion Title and Content Color Option given
+ * Added: Social Icon Color Change Option for "Normal" and "Hover" tab Option added on MA Team Carousel
+ * Updated: Dashboard News widget and Blog Updates Feed Link changed to Master Addons Website. Logo Icon Placed for
+ more visual appeal.
+ * Added: Dashboard Master Addons News RSS feed Opens New Window.
+ * Updated: Dashboard Addons, Extensions seperated. Pro Features blocked with Popup Sweetalert.
+ * Added: Blocked Pro Version Ribbons, popup opens with Pro Version Pricing Links.
+
+
+
+
+ = 1.1.1 (30-08-2019) =
+ * Fixed: MA Headlines renamed MA Animated Headlines.
+ * Fixed: Accordion Design Presets styles done.
+ * Added: Accordion Items can be designed individually. Every item can be set different background color, text color etc.
+ * Added: Nested Accordion feature added
+ * Removed: Image and Video feature removed from Accordions
+ * Fixed: Animated Gradient Background color issue fixed. Overlay color set issue also fixed.
+ * Fixed: Background Image Slider for sections issue fixed.
+ * Fixed: MA Animated Headlines page flipping issue fixed. Updated scripts and styles.
+ * Added: Nine Style Presets added for MA Animated Headlines.
+ * Fixed: Icon not showing issue on Dual Heading fixed.
+ * Fixed: Added "Heading HTML Tags" Options on Dual Heading Elements. Fixed - Typography, Color and Background issue for
+  First Design Preset.
+ * Fixed: Particles not showing, Animated Gradient Background not working, Background Slider Image resize issues fixed
+ * Added: "Master Addons Widget Badge" added on Particles, Animated Gradient Background, Background Slider.
+ * Fixed: Caldera Form error and Styles.
+ * Fixed: Infobox 10 Design Style Presets fixed.
+ * Added: Infobox gradient Color Style changer
+ * Removed: Custom Title and Description removed from Ninja Form
+ * Fixed: Ninja Form Label and Placeholder switcher and css fixings.
+ * Fixed: Dual Heading icon spacing issue fixed
+ * Added: HTML Tags added on Dual heading icon spacing issue fixed
+ * Fixed: MA Cards Image Alt content now showing fixed
+ * Added: Flipbox- Default, Image, Diagnoal style variations added
+ * Added: New Addon Element added "Creative Links"
+ * Removed: Font Awesome 4, Font Awesome 5, Animate.css, wow.js removed from plugin. All are available on Elementor Core
+ * Added: Affiliation Added for any Plugin Users. Starting from 50% flat commissions for all Affiliates.
+
+
+ = 1.1.0 (11-8-2019) =
+ * Fixed: Admin Notice not showing issue on Master Addons issue fixed
+ * Fixed: Plugin uri changed to Master Addons website
+ * Fixed: Contact Forms Style issues fixed
+ * Fixed: Accordion Style issues fixed, conflicting JS issue fixed
+ * Fixed: Team Member and Team Member Slider style issue fixed
+
+
+
+ = 1.0.9 (2-8-2019) =
+ * Fixed: Freemius SDK Live Update problem. It's fixed now.
+ * Updated: Team Section Full Size Image Replaced with backend Image size.
+ * Updated: Carousel Team Slider Updated fixed Image Size to backend Image size by user Inputs
+ * Updated: Forms Styles and other style issues
+
+ = 1.0.8 (25-7-2019) =
+     * Fixed: Freemius Free Version Popup issue fixed
+
+ = 1.0.7 (24-7-2019) =
+     * Fixed: Accordion issue fixed
+    * Fixed: weDocs sweet alert conflicting issue fixed
+    * Updated: Checked Free vs Pro version of Master Addons Comparisons
+    * Update: Pro Ribbon added on Gravity Forms, functioned frontend and backend also
+    * Update: Schedule Plugin Check
+
+
+
+
+ = 1.0.6 (6-7-2019) =
+ * Fixed: Markdown Library Error - Plugin activation Error “The plugin does not have a valid header” fixed
+ * Added: Contact Form 7, Ninja Forms, Gravity Forms, WPForms, Caldera Forms, weForms added
+ * Updated: 12 Style Presets added for Contact Form 7
+ * Update: Schedule Plugin Check
+
+
+ = 1.0.5 (4-7-2019) =
+ * Fixed: Plugin activation Error “The plugin does not have a valid header” fixed
+ * Update: Version bump
+
+
+ = 1.0.4 (3-7-2019) =
+ * Added: Freemius SDK for Master Addons for Elementor
+ * Added: Call to Action Element/Widget
+ * Added: Call to Action Progressbars Element
+ * Fixed: Addons Tabs Style fixed
+ * Fixed: Move Master Addons Main menu from Sub Menu
+ * Fixed: Menu Position Changed just under "Elementor" and "Templates" Menu
+ * Added: Info Service Icons
+ * Fixed: BG Slider swiper.min.css file not found issue
+ * Fixed: Creative Links Conflict with website Nav Class/ID's
+ * Fixed: Admin Docs content typo fixed
+ * Fixed: Script not working issue fixed- progressbars, tabs, accordion, team slider was not working. Fixed the issue.
+ * Fixed: Countdown Script issue fixed
+ * Fixed: Progressbar, Piechart, Progressbars, Team Slider, Counterup, Countdown, Custom waypoint Script issue fixed
+ * Fixed: Dashboard Settings not working issue fixed
+ * Updated: Master Addons Class CSS and JS files re-arranged with wp_register_style and wp_register_script methods
+
+
+ = 1.0.3 (26-6-2019) =
+ * Fixed: Ninja Forms not found issue fixed
+ * Added: Added Dashboard News feed for Master Addons
+ * Fixed: Cleanup Unnecessary Codes
+ * Fixed: Free and Pro Creative Buttons CSS fixed
+ * Fixed: Dependencies and Checked Free and Pro Version Apply Filter.
+ * Added: Ninja Forms Added with unlimited customization possibilities
+ * Added: Caldera Forms Added
+ * Added: WP Forms Added
+ * Added: weForms Added
+ * Added: Call to Action Elementor Element / Widget added
+ * Added: Creative Buttons Added
+ * Added: Section Particles Added: BG Slider, Animated Background etc
+
+ = 1.0.2 (24-6-2019) =
+ * Fixed: Advanced Accordion JS issue fixed
+ * Fixed: Animated Heading CSS issue fixed
+
+ = 1.0.1 =
+ * Version Bump
+
+ = 1.0.0 (17-6-2019)=
+ * Initial Release
